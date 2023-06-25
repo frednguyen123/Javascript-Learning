@@ -1,6 +1,6 @@
 # Javascript-Learning
 
-#### Build 5 beautiful real-world projects for your portfolio! In these projects, you will learn how to plan and architect your applications using flowcharts and common JavaScript patterns
+#### Build 5 beautiful real-world projects! In these projects, you will plan and architect your applications using flowcharts and common JavaScript patterns
 
 #### Master the JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, and more
 
